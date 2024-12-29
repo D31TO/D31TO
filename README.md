@@ -10,8 +10,8 @@ $ who
                      oM              "Mo -MMo                  ├── Server tech (hobbyist)
                     oM                lMMMo"-                  ├── C++, Python, bash, HTML 
                    ╒M-                 -M-MMK┌-M               ├── Currently working on - DoneJohn 
-                   MK                   MM '-MM▓M╕             ├── Currently working on - DoneJohn 
-                  MM       ___,__       "MK   "-MM             └── Norwich University of the Arts
+                   MK                   MM '-MM▓M╕             └── Norwich University of the Arts
+                  MM       ___,__       "MK   "-MM             
                 ,oMMoMMM-------------MMMoMMo,    -¬
            ╓oMMM--"`                     -"--MMMo_             ├── OS 🡪 Windows, Ubuntu server 
        ooMM---                                 └--MMoo         ├── Specs 🡪 i7 13700, RTX 4060, 32GB RAM, 2TB M.2
