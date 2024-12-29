@@ -1,5 +1,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9160F7&repeat=false&width=435&lines=Alex+Moore)](https://git.io/typing-svg)
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9160F7&repeat=false&width=435&lines=Game+Developer+and+Server+Technician)](https://git.io/typing-svg)
 
 
