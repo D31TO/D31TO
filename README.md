@@ -1,3 +1,10 @@
+
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9160F7&vCenter=true&width=435&lines=Game+developer+and+Server+technician)](https://git.io/typing-svg)
+
+
+
 <h3>Visitor Count</h3>
 
 <p align = "center"><img src = "https://count.getloli.com/@D31TO?name=D31TO&theme=booru-lisu&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" </p></br>
