@@ -16,13 +16,13 @@ $ who
                       oM             ,"-MMo                    ├── Game Developer 
                      oM              "Mo -MMo                  ├── Server tech (hobbyist)
                     oM                lMMMo"-                  ├── C++, Python, bash, HTML 
-                   ╒M-                 -M-MMK┌-M               ├── Currently working on - DoneJohn 
+                   ╒M-                 -M-MMK┌-M               ├── Currently working on - RTS Tech Demo
                    MK                   MM '-MM▓M╕             └── Norwich University of the Arts
                   MM       ___,__       "MK   "-MM             
                 ,oMMoMMM-------------MMMoMMo,    -¬
            ╓oMMM--"`                     -"--MMMo_             ├── OS 🡪 Windows, Ubuntu server 
        ooMM---                                 └--MMoo         ├── Specs 🡪 i7 13700, RTX 4060, 32GB RAM, 2TB M.2
-   ooMMMMoooooooo╥_____               ____╥¿ooooooooMMMMoo     └── Watch 🡪 Anime
+   ooMMMMoooooooo╥_____               ____╥¿ooooooooMMMMoo     └── Watching 🡪 House M.D
  .MMMMMMMMMM-"-MMMMMMM---MMMMMMMMMMM---MMMMMMM-"-MMMMMMMMMM
   MM-MMMMM▓-` ${c2}lM${c3}  -K *-   _ oMMM o    -` M-${c2}     ├── Email 🡪 contents-opt-sniff@duck.com 
   "MMo▓-Mooo,,${c2}M"${c3}  oKoo-Mooo M  l MoooM-ooMo  ${c2}l  ├── Steam 🡪 D31TO       
